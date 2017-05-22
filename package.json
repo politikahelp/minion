@@ -20,5 +20,16 @@
   },
   "devDependencies": {
     "standard": "^10.0.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/politikahelp/minion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/politikahelp/minion/issues"
+  },
+  "homepage": "https://github.com/politikahelp/minion#readme"
 }
