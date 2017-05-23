@@ -2,7 +2,6 @@
   "name": "@justinc/politikahelp-minion",
   "version": "0.0.1",
   "description": "A CLI tool to help with some random tasks",
-  "main": "src/index.js",
   "bin": {
     "minion": "cli.js"
   },
